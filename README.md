@@ -1,2 +1,2 @@
 # TA_Notes
-Teaching Assistant Notes
+Teaching Assistant Notes.
