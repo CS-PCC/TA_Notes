@@ -1,4 +1,3 @@
-
 # basic text editor shortcuts:
 
 ## ctrl modifer
