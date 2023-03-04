@@ -1,4 +1,4 @@
-# basic text editor shortcuts:
+# Basic Text Editor Shortcuts
 
 ## ctrl modifer
 - moving back one word  
@@ -11,7 +11,7 @@
    `ctrl + shift + (left/right) arrowkey`
 
 
-# vscode shortcuts:
+# VSCode Shortcuts
 
 ## moving lines
 - `alt + (up/down) arrowkey`
