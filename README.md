@@ -1,6 +1,6 @@
-# TA Notes
+# Teaching Assistant Notes
 
-Teaching Assistant Notes: help you succeed in the class
+Help you succeed in the class
 
 
 ## Sections
